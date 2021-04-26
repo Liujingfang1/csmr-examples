@@ -2,7 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: foo
-  namespace: default
+  namespace: test
 data:
   foo: bar
-  lala
+  la: 000111kjfieejifoeiieifjeo
