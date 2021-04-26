@@ -18,4 +18,3 @@ spec:
     # Refer to a Secret you create to hold the private key, cookiefile, or token.
     # secretRef:
     #   name: SECRET_NAME
-    this: that
