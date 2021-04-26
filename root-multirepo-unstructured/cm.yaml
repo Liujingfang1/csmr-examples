@@ -3,5 +3,6 @@ kind: ConfigMap
 metadata:
   name: foo
   namespace: default
-data1:
+data:
   foo: bar
+  lala
