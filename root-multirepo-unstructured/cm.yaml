@@ -1,4 +1,3 @@
-## foo bar bar
 apiVersion: v1
 kind: ConfigMap
 metadata:
